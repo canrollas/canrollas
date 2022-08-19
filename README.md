@@ -12,4 +12,12 @@ About Me:
 
 Projects:
 - [Online Fish Auction Backend System](https://github.com/canrollas/restful)
+- [Online Fish Auction Frontend System](https://github.com/canrollas/mert)
+- [Machine Learning For Everyone (Introductıon)](https://github.com/canrollas/machine_learning_tutorials)
+- [Grundig Smart Tv Desktop App](https://github.com/canrollas/Remote-Controller)
+- [Mail Bot Zimbra](https://github.com/canrollas/Iyte-Mail-Bot)
+- [My Own Website](https://github.com/canrollas/Can-Rollas-Website)
+- [Mobile Business Card App](https://github.com/canrollas/mobilkart)
+- [Mobile Business Card App Web](https://github.com/canrollas/ecocardweb)
+- [Online Fish Auction Another Design Approcah MD](https://github.com/canrollas/balik-mezati/tree/main)
 
