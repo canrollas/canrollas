@@ -1,5 +1,5 @@
 ### Hello there (Obiwan Kenobi)  
-<img src="https://cdn-icons.flaticon.com/png/512/922/premium/922809.png?token=exp=1660908758~hmac=8ca9d1e615a8330599faf7167320a0b9"></img>
+<img style="height:auto;width:24px" src="https://cdn-icons.flaticon.com/png/512/922/premium/922809.png?token=exp=1660908758~hmac=8ca9d1e615a8330599faf7167320a0b9"></img>
 
 
 
