@@ -1,4 +1,4 @@
-<h3>Hello there (Obiwan Kenobi)  <img style="height:auto;width:24px" src="https://cdn-icons.flaticon.com/png/512/922/premium/922809.png?token=exp=1660908758~hmac=8ca9d1e615a8330599faf7167320a0b9"></img></h3>
+<h3>Hello there (Obi-Wan Kenobi)  <img style="height:auto;width:24px" src="https://cdn-icons.flaticon.com/png/512/922/premium/922809.png?token=exp=1660908758~hmac=8ca9d1e615a8330599faf7167320a0b9"></img></h3>
 
 About Me:
 
@@ -13,7 +13,7 @@ About Me:
 Projects:
 - [Online Fish Auction Backend System](https://github.com/canrollas/restful)
 - [Online Fish Auction Frontend System](https://github.com/canrollas/mert)
-- [Machine Learning For Everyone (Introductıon)](https://github.com/canrollas/machine_learning_tutorials)
+- [Machine Learning For Everyone (Introduction)](https://github.com/canrollas/machine_learning_tutorials)
 - [Machine Learning Approach to German Credit Dataset](https://github.com/canrollas/Credit_Appliance)
 - [Grundig Smart Tv Desktop App](https://github.com/canrollas/Remote-Controller)
 - [Mail Bot Zimbra](https://github.com/canrollas/Iyte-Mail-Bot)
