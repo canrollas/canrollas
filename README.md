@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there (Obiwan Kenobi)  
+<img src="https://cdn-icons.flaticon.com/png/512/922/premium/922809.png?token=exp=1660908758~hmac=8ca9d1e615a8330599faf7167320a0b9"></img>
 
 
-**canrollas/canrollas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
