@@ -3,7 +3,7 @@
 About Me:
 
 
-- 🔭 I’m currently working on ML / Data Science / Software Engineering
+- 🔭 I’m currently working on ML-Image Processing / Data Science / Software Engineering
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Computer Science
 - 📫 How to reach me: canrollas@gmail.com
