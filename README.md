@@ -1,8 +1,6 @@
 <!-- Header -->
 # Hello there! (Obi-Wan Kenobi) 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
-
 <!-- Introduction -->
 I am a seasoned Python wizard with a deep passion for the art of coding. My journey into the world of programming has led me to become proficient in various languages, including Java, C, C#, and C++. As a graduate from the Izmir Institute of Technology's Computer Science Engineering department, I acquired a solid foundation in computer science principles and problem-solving.
 
