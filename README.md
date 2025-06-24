@@ -23,6 +23,4 @@ Computer engineer, researcher, and creative developer passionate about building 
 - [YouTube](https://www.youtube.com/@komut_satiri)  
 - Email: canrollas@gmail.com
 
----
-  
-> _“Elegance is not a dispensable luxury but a factor that decides between success and failure.”_ — Edsger Dijkstra
+ 
